@@ -33,3 +33,6 @@
 
 cfj催着去吃圣诞大餐，先胡乱提交一版等回来再看吧😡
 
+教了一版，分数只有4.65. 看了看和金牌的思路是对的：在ResNet50上做迁移学习，但可能实现上有很多很多很多问题，然后数据处理/图像处理知识实在太匮乏。慢慢来吧
+
+![image-20211226105500096](/Users/richard/Library/Application Support/typora-user-images/image-20211226105500096.png)
