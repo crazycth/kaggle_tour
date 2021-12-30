@@ -64,3 +64,15 @@ ResNet50+finetune 0.0003
 
 
 
+## PetFinder.my
+
+第一次做还在跑的比赛
+
+先做一个端到端的大致思路看看效果
+
+在resnet152上进行finetune，把regression问题近似按照101类模型做分类
+
+resnet端到端loss始终下不去，但用swin-transformer做端到端效果很显著。可以进到前500名但离奖牌差0.02的准确度，考虑一下怎么做进一步的提升。
+
+
+
