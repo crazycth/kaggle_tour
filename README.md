@@ -78,4 +78,6 @@ resnet端到端loss始终下不去，但用swin-transformer做端到端效果很
 
 G了家人们
 
+yolo加强了一下，进入铜牌区了
+
 
